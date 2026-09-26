@@ -1,5 +1,5 @@
 (() => {
-  const API_BASE = "https://student-mental-health-analyzer-5y77.onrender.com/";
+  const API_BASE = "https://student-mental-health-analyzer-5y77.onrender.com";
   const form = document.getElementById("predict-form"),
     btn = document.getElementById("submit-btn"),
     stress = document.getElementById("stress_level"),
